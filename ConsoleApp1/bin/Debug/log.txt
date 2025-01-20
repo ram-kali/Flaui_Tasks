@@ -1,0 +1,11 @@
+[INFO]: Setup completed.
+[INFO]: *** Start of Test Case1 ***
+[PASS]: New Directory created Sucessfully
+[PASS]: New text File Created in Path 'D:\Gg\Welcome.txt'
+[PASS]: Write text in text file was successful!
+[INFO]: Waiting for 1 seconds...
+[INFO]: Waiting for 3 seconds...
+[PASS]: Text verification succeeded! Expected Text: Welcome to Trumpf Metamation! Actual Text: Welcome to Trumpf Metamation!
+[PASS]: Folder and its contents deleted successfully!
+[INFO]: *** End of Test Case1 ***
+[INFO]: Running cleanup (AfterAll)...
